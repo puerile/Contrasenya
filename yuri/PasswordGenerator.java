@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class PasswordGenerator
 {
-
 	/**
 	 * @author Yuri
 	 */
